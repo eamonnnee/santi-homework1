@@ -13,7 +13,7 @@ nav {
 
 main {
     background-color: #cbdd41;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 footer {
@@ -38,4 +38,5 @@ h1 {
 p {
     font-size: 18px;
     line-height: 1;
+    color: navy;
 }
